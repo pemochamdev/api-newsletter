@@ -52,7 +52,7 @@ Cette API de Newsletter Avancée est une solution complète pour gérer efficace
 
 1. Clonez le dépôt :
    ```
-   git clone https://github.com/votre-username/api-newsletter-avancee.git
+   git clone https://github.com/pemochamdev/api-newsletter.git
    ```
 
 2. Créez un environnement virtuel et activez-le :
