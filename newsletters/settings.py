@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'userauth',
     'apinewsletter',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
